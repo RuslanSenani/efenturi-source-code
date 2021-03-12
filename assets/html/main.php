@@ -1,0 +1,11 @@
+<?php include('pages/include_for_all/header.php'); ?>
+<?php include('pages/include_main_page/search.php'); ?>
+<?php include('pages/include_main_page/happening-now.php'); ?>
+<?php include('pages/include_main_page/by_category.php'); ?>
+<?php include('pages/include_main_page/by_country.php'); ?>
+<?php include('pages/include_main_page/trending.php'); ?>
+<?php include('pages/include_main_page/top-organizer.php'); ?>
+<?php include('pages/include_main_page/organizer_talking.php'); ?>
+<?php include('pages/include_main_page/media.php'); ?>
+<?php include('pages/include_main_page/partners.php'); ?>
+<?php include('pages/include_for_all/footer.php'); ?>
